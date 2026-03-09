@@ -63,7 +63,7 @@ La matriz de correlación indica que cada variable tiene una correlación perfec
   <img width="500" height="265" alt="image" src="https://github.com/user-attachments/assets/5997e2ee-3a6b-437f-8578-7e712cdf6043" />
 </p>
 
-<p ">
+<p >
   <img width="1662" height="606" alt="image" src="https://github.com/user-attachments/assets/b664b772-60e9-43d2-a298-df6a822c38ca" />
 </p>
 
@@ -80,7 +80,7 @@ Las métricas más importantes para Churn son:
   - 0.80 - 0.90 → muy bueno
   - 0.90 + → excepcional
 
-**Se determina que el modelo de Regresión Logística es el mejor modelo.**
+Se determina que el modelo de Regresión Logística es el mejor modelo.
 <h1></h1>
 
 <h3> Importacia de las variables </h3>
@@ -88,7 +88,7 @@ Las métricas más importantes para Churn son:
 <p >
   <strong>Importancia de las variables en regresión logística</strong>
 </p>
-<p align="center">
+<p >
   <img width="500" height="181" alt="image" src="https://github.com/user-attachments/assets/10ae8fdd-52b7-48c1-aa22-36b925613c70" />
 </p>
 

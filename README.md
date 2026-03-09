@@ -106,7 +106,7 @@ Se determina que el modelo de Regresión Logística es el mejor modelo.
 
 <h3> Conclusión </h3>
 <h1></h1>
-* El tipo de contrato es determinante.
+ El tipo de contrato es determinante.
   - Mes a mes - alto riesgo.
   - Dos años - bajo riesgo.
 
@@ -119,6 +119,5 @@ Se determina que el modelo de Regresión Logística es el mejor modelo.
 
 Los modelos coinciden en que los contratos mensuales generan poca antigüedad y si el cargo es alto generará un churn.
 Los clientes con servicio de fibra óptica, son mayormente propensos a cancelar el servicio.
-
 Se debe enforcar la retención en nuevos clientes, contratos flexibles (mes a mes) y costos altos mensules o totales.
 <h1></h1>

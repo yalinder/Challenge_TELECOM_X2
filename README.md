@@ -34,7 +34,7 @@ La empresa quiere anticiparse al problema de la cancelación, por loa que debemo
   <img width="500" height="547" alt="image" src="https://github.com/user-attachments/assets/f7d0ab28-cbbd-4d7b-b20f-5757edf63ff5" />
 </p>
 
-<p align="center">
+<p >
   <img width="699" height="315" alt="image" src="https://github.com/user-attachments/assets/07a60cde-d5c9-4f40-953b-29b2b4b24e15" />
 </p>
 

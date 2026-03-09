@@ -98,14 +98,14 @@ Se determina que el modelo de Regresión Logística es el mejor modelo.
   <img width="500" height="179" alt="image" src="https://github.com/user-attachments/assets/dbc235d9-d276-44cf-801a-bd85cea57791" />
 </p>
 
-<p align="center">
+<p >
   <strong>Importancia de las variables en XGBoost</strong>
-<p align="center">
+<p >
   <img width="500" height="176" alt="image" src="https://github.com/user-attachments/assets/7a85f334-1c73-4ea9-a033-58b00a41fccc" />
 </p>
 
 <h3> Conclusión </h3>
-
+<h1></h1>
 * El tipo de contrato es determinante.
   - Mes a mes - alto riesgo.
   - Dos años - bajo riesgo.

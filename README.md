@@ -29,7 +29,7 @@ La empresa quiere anticiparse al problema de la cancelación, por loa que debemo
 
 <h3> Análisis dirigido </h3>
 
-<p align="center">
+<p >
   <img width="500" height="547" alt="image" src="https://github.com/user-attachments/assets/0b89572e-efc9-4065-b13d-836e2b7383bb" />
   <img width="500" height="547" alt="image" src="https://github.com/user-attachments/assets/f7d0ab28-cbbd-4d7b-b20f-5757edf63ff5" />
 </p>

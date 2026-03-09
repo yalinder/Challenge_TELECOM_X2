@@ -63,11 +63,11 @@ La matriz de correlación indica que cada variable tiene una correlación perfec
   <img width="500" height="265" alt="image" src="https://github.com/user-attachments/assets/5997e2ee-3a6b-437f-8578-7e712cdf6043" />
 </p>
 
-<p align="center">
+<p ">
   <img width="1662" height="606" alt="image" src="https://github.com/user-attachments/assets/b664b772-60e9-43d2-a298-df6a822c38ca" />
 </p>
 
-Las métricas más importantes para **Churn** son:
+Las métricas más importantes para Churn son:
 * Recall - El porcentaje de clientes que sí abandonan.
 
 * F1_score - El balance entre:
@@ -85,7 +85,7 @@ Las métricas más importantes para **Churn** son:
 
 <h3> Importacia de las variables </h3>
 
-<p align="center">
+<p >
   <strong>Importancia de las variables en regresión logística</strong>
 </p>
 <p align="center">

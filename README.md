@@ -105,14 +105,15 @@ Se determina que el modelo de Regresión Logística es el mejor modelo.
 </p>
 
 <h3> Conclusión </h3>
-<h1></h1>
- El tipo de contrato es determinante.
+
+ El tipo de contrato es determinante:
+
   - Mes a mes - alto riesgo.
   - Dos años - bajo riesgo.
 
-* La antigüedad del cliente con la empresa es clave.
+ La antigüedad del cliente con la empresa es clave.
 
-* El servicio de Internet tipo Fibra es un riesgo. Podría deberse a:
+ El servicio de Internet tipo Fibra es un riesgo. Podría deberse a:
   - Costos altos.
   - Problemas del servicio.
   - Tiempo de instalación.

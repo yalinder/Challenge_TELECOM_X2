@@ -1,16 +1,13 @@
-<div align="center">
-<h1> ✨✨✨ CHALLENGE - TelecomX2_LATAM ✨✨✨ </h1>
-<h2> Análisis de deserción de Clientes </h2>
-</div>
 
-![Badge en Desarollo](https://img.shields.io/badge/ENTREGA-%2018/02/2026-pink)
+<h1> TelecomX2 </h1>
+<h2> Análisis de deserción de los Clientes </h2>
 
 <h3> Introducción </h3>
 
-Desarrollar modelos predictivos capaces de prever qué clientes tienen mayor probabilidad de cancelar sus servicios.
+La empresa quiere anticiparse al problema de la cancelación, por loa que debemos Desarrollar modelos predictivos capaces de prever qué clientes tienen mayor probabilidad de cancelar sus servicios.
 <h1></h1>
 
-<h3> Tratamiento de Datos </h3>
+<h3> estructura a trabajar de los datos </h3>
 
 * Se descargo la información modificada de Telecom X.
 * Se importó la información desde un archivo csv.
@@ -109,14 +106,11 @@ Las métricas más importantes para **Churn** son:
 
 <h3> Conclusión </h3>
 
-* El tipo de contrato es determinante para churn.
+* El tipo de contrato es determinante.
   - Mes a mes - alto riesgo.
   - Dos años - bajo riesgo.
 
 * La antigüedad del cliente con la empresa es clave.
-
-* Los cargos mensuales y totales influyen en el churn.
-  - Cargos altos - mayor churn.
 
 * El servicio de Internet tipo Fibra es un riesgo. Podría deberse a:
   - Costos altos.

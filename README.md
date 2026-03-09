@@ -27,7 +27,7 @@ La empresa quiere anticiparse al problema de la cancelación, por loa que debemo
  * Conclusión.
 <h1></h1>
 
-<h3> Análisis dirigido </h3>
+<h3> Análisis  </h3>
 
 <p >
   <img width="500" height="547" alt="image" src="https://github.com/user-attachments/assets/0b89572e-efc9-4065-b13d-836e2b7383bb" />

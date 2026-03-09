@@ -46,7 +46,7 @@ De los gráficos podemos indicar que:
 <h3> Correlación </h3>
 <img width="1886" height="1059" alt="image" src="https://github.com/user-attachments/assets/820a56b5-763c-4d3e-ac92-a064063ffa86" />
 
-<p align="center">
+<p >
   <img width="500" height="323" alt="image" src="https://github.com/user-attachments/assets/1a11c19d-a85b-42b9-a9f2-62ca7217ce92" />
 </p>
 
@@ -59,7 +59,7 @@ La matriz de correlación indica que cada variable tiene una correlación perfec
 
 <h3> Modelos de comparación </h3>
 
-<p align="center">
+<p >
   <img width="500" height="265" alt="image" src="https://github.com/user-attachments/assets/5997e2ee-3a6b-437f-8578-7e712cdf6043" />
 </p>
 
